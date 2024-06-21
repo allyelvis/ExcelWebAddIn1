@@ -45,6 +45,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="ExcelWebAddIn1Manifest\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{7fc173bb-d4fc-4bc7-a79b-2e22c528a9ab}</SharePointProjectItemId>
     </None>
